@@ -1,0 +1,5 @@
+C:\Users\SwiterKLy\source\repos\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SwiterKLy\source\repos\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\SwiterKLy\source\repos\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfo.cs
+C:\Users\SwiterKLy\source\repos\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\SwiterKLy\source\repos\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
